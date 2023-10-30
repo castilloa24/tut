@@ -1,4 +1,4 @@
-# <center>**Hello! Hello! Hello!**</center> #
+# <center>Hello! Hello! Hello!</center> #
 
 <font size="-1"><center>The author of this page is a published poet (Augur Magazine, Cicida) under a penname.</center>
 
